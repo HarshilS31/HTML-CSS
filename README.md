@@ -1,2 +1,2 @@
 # HTML
-Learning HTML,will upload the codes here !
+Learning HTML/CSS,will upload the codes here !
