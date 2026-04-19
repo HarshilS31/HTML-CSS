@@ -1,0 +1,37 @@
+.navbar {
+    display:flex;
+    justify-content:space-evenly;
+    background-color:aquamarine;
+
+}
+a {
+    color:brown;
+    text-decoration:none;
+    border:2px dashed purple;
+    border-radius:20%;
+
+}
+li {
+    list-style-type:none;
+    
+}
+ul {
+    display:flex;
+    
+}
+#div1 {
+    height:400px; width:400px;
+    background-color:cornflowerblue;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    border-radius:50%;
+
+    
+
+}
+#div2 {
+    height:200px; width:200px;
+    background-color:bisque;
+
+}
