@@ -1,0 +1,28 @@
+div{
+    height:100px; width:100px;
+    border:2px solid lime;
+    display:inline-block;
+    margin:10px;
+    
+    
+    
+}
+#b1{
+    background-image:url("photo1.jpg");
+    background-size:cover;
+
+}
+#b2{
+    background-image:url("photo2.jpg");
+    background-size:cover;
+
+}
+#b3 {
+    background-image:url("photo3.jpg");
+    background-size:cover;
+}
+#b4{
+    background-image:url("photo.png");
+    background-size:cover;
+
+}

@@ -1,0 +1,19 @@
+#b1 {
+    height:100px;
+    width:100px;
+    background-color:yellow;
+    font-size:20px;
+
+
+}
+#b2 {
+    height:50px;
+    width:30% ;/*30% wrt Box1 width*/
+    background-color:rgba(0,255,0,0.5);
+    font-size: 2em;/* It means 2X the size of b1*/
+    height:5em;/* 5 X font_size(40px) */
+    width:5rem;/* 5 X font size(root element) */
+
+
+
+}
